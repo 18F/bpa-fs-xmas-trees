@@ -40,7 +40,7 @@ There will be a Base Period of 6 months and a 3 month option period. Details, in
 
 3. [QASP](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/QASP.md)
 
-4. [SF1449](docs/SF1449.pdf)
+4. [SF1449](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/SF1449-12a2.pdf)
 
 Please remember: The documents in eBuy should always be considered the documents of record.
 
