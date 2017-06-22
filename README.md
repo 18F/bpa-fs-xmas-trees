@@ -34,11 +34,11 @@ There will be a Base Period of 6 months and a 3 month option period. Details, in
 
 ## Contents
 
-1. [RFQ](docs/RFQ.md)
+1. [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/RFQ)
 
-2. [Pricing Template](docs/Pricing_Template.xlsx)
+2. [Pricing Template](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/Pricing%20Template%20-%20FS%203.xlsx)
 
-3. [QASP](docs/QASP.md)
+3. [QASP](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/QASP.md)
 
 4. [SF1449](docs/SF1449.pdf)
 
