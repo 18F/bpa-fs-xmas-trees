@@ -54,16 +54,16 @@ The Vendor must build a custom software module off of the [existing online permi
 * Integrate with the U.S. Treasury Pay.gov payment system.
  
 ### 2.1 Additional requirements
-Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (“QASP”) before moving on. The Vendor and Government may mutually agree to alter sprint length as needed.
-Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end), with all artifacts from usability testing and/or other research methods with end-users being made available at the end of every applicable sprint.
-All software code delivered under this order shall comply with the 18F open source policy in effect as of the date of award.
-All software code delivered under this order shall comply with the 18F Accessibility Guidelines in effect as of the date of award.
-The contractor will use the [*US Web Design Standards.*](https://playbook.cio.gov/designstandards/).
-The contractor will develop and deliver a Forest Service specific style guide similar to this [NASA fork](https://bruffridge.github.io/web-design-standards-docs/components/buttons/) based on the US Web Design Standards.
-All dependencies (and licenses for dependencies) must be listed.
-All major functions must be documented inline.
-Code must be stored in a version-controlled, open-source repository, with all code needed to run the front-end of the prototype available in that repository.
-All Contractor Key Personnel, employees, agents, subcontractors, and subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
+* Work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (“QASP”) before moving on. The Vendor and Government may mutually agree to alter sprint length as needed.
+* Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end), with all artifacts from usability testing and/or other research methods with end-users being made available at the end of every applicable sprint.
+* All software code delivered under this order shall comply with the 18F open source policy in effect as of the date of award.
+* All software code delivered under this order shall comply with the 18F Accessibility Guidelines in effect as of the date of award.
+* The contractor will use the [*US Web Design Standards.*](https://playbook.cio.gov/designstandards/).
+* The contractor will develop and deliver a Forest Service specific style guide similar to this [NASA fork](https://bruffridge.github.io/web-design-standards-docs/components/buttons/) based on the US Web Design Standards.
+* All dependencies (and licenses for dependencies) must be listed.
+* All major functions must be documented inline.
+* Code must be stored in a version-controlled, open-source repository, with all code needed to run the front-end of the prototype available in that repository.
+* All Contractor Key Personnel, employees, agents, subcontractors, and subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
  
 ### 2.2 Post Award Orientation Conference
 The Government’s team and the Contractor’s team will hold a Post Award Orientation Conference (“Vendor Kickoff”) within 10 calendar days of Award. The Government’s team will include the Contracting Officer (“CO”), the Contracting Officer’s Representative (“COR”), the TTS Product Lead, and the Product Owner (“PO”).
@@ -228,7 +228,7 @@ Feature projects that are roughly similar in terms of size, scope, and complexit
  
 When you submit repositories, please describe how the offeror’s team was involved in the development. 
  
-**Written technical quotes that fail to include any of the items required above will not be considered for award. **
+**Written technical quotes that fail to include any of the items required above will not be considered for award.**
  
 If potential offerors plan to use any Contractor Teaming Arrangements (CTAs) or subcontractor arrangements, then they must provide a description of these arrangements. These descriptions should list company names, personnel, and the parts of performance to be provided. Because CTAs and subcontractor arrangements are not the same, offerors must clearly state whether they’re proposing a CTA or subcontractor arrangement. If the offeror is not proposing any such arrangements, they don’t need to take any additional steps here.
  
