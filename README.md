@@ -34,13 +34,13 @@ There will be a Base Period of 6 months and a 3 month option period. Details, in
 
 ## Contents
 
-1. [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/RFQ)
+1. [RFQ](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/RFQ.md)
 
-2. [Pricing Template](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/Pricing%20Template%20-%20FS%203.xlsx)
+2. [Pricing Template](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/Pricing%20Template%20-%20FS%203.xlsx)
 
-3. [QASP](https://github.com/18F/bpa-fs-xmas-trees/blob/rrefoy-patch-1/docs/QASP.md)
+3. [QASP](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/QASP.md)
 
-4. [SF1449](docs/SF1449.pdf)
+4. [SF1449](https://github.com/18F/bpa-fs-xmas-trees/blob/master/docs/SF1449-12a2.pdf)
 
 Please remember: The documents in eBuy should always be considered the documents of record.
 
