@@ -34,15 +34,13 @@ There will be a Base Period of 6 months and a 3 month option period. Details, in
 
 ## Contents
 
-1. [RFQ](solicitation_documents/RFQ.md)
+1. [RFQ](docs/RFQ.md)
 
-2. [Pricing Template](solicitation_documents/Pricing_Template.xlsx)
+2. [Pricing Template](docs/Pricing_Template.xlsx)
 
-3. [QASP](solicitation_documents/QASP.md)
+3. [QASP](docs/QASP.md)
 
-4. [NDA](solicitation_documents/NDA.md)
-
-5. [SF1449](solicitation_documents/SF1449.pdf)
+4. [SF1449](docs/SF1449.pdf)
 
 Please remember: The documents in eBuy should always be considered the documents of record.
 
